@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730075473833",
+    "project_id": "kotlin-62632",
+    "storage_bucket": "kotlin-62632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730075473833:android:89daa770987417214146b8",
+        "android_client_info": {
+          "package_name": "com.example.evidencia1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730075473833-127cmvj1trj6qgl79ksbe04v57s8mpsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ8LMclbEP4-dt-jUp6sP7Glqw2Bavv70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730075473833-127cmvj1trj6qgl79ksbe04v57s8mpsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
